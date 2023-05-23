@@ -1,0 +1,22 @@
+[Bukhansan-mountain Insubong-peak route map]
+
+Route name : Hanuel-gil
+	1p : 23m, 5.10a
+	2p : 17m, 5.10c
+	3p : 26m, 5.9
+	4p : 30m, 5.8
+	5p : 31m, 5.10b
+	6p : 40m, 5.8
+	7p : 20m, 5.10d
+
+Route name : Chouinard_A
+	1p : 25m, 5.6
+	2p : 35m, 5.8
+	3p : 40m, 5.10b
+	4p : 40m, 5.6
+
+Route name : Gunghyeong_crack
+	1p : 30m, 5.8
+	2p : 30m, 5.7
+	3p : 30m, 5.10a
+	4p : 25m, 5.11b
